@@ -1,7 +1,5 @@
 import { createGlobalStyle } from 'styled-components';
 
-import layoutBackground from '../assets/background.png';
-
 export default createGlobalStyle`
   * {
     margin: 0;
