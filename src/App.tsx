@@ -1,6 +1,4 @@
-import React from 'react';
-import Tips from './pages/Tips/index';
-import Symptoms from './pages/Symptoms/index';
+import React from 'react'
 import Notifications from './pages/Notifications/index';
 
 import GlobalStyles from './styles/global';
